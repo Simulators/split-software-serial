@@ -1,0 +1,19 @@
+{
+  "name": "SplitSoftwareSerial",
+  "version": "1.0.0",
+  "frameworks": "Arduino",
+  "keywords": "serial, uart",
+  "description": "Derived from the Arduino SoftwareSerial library, provides the same functionality of serial communication on any digital pin, but via two separate classes, SoftwareSerialRx and SoftwareSerialTx, each taking one pin.",
+  "authors": [
+    {
+      "name": "Liverpool Ringing Simulator Project",
+      "email": "admin@simulators.org.uk",
+      "url": "https://github.com/Simulators",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simulators/split-software-serial"
+  }
+}
